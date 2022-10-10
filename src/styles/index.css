@@ -85,6 +85,9 @@ p {
 
 /* ===========imports styles========== */
 @import url("./header.css");
+@import url("./footer.css");
+
+
 
 @media(max-width:768px) {
   img {
