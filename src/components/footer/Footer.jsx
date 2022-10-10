@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import LogoFooter from "../../assets/darthvader_2x.jpg"
 import Folow from './Folow'
 import FooterLinks from './FooterLinks'
