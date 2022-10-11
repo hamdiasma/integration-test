@@ -38,7 +38,7 @@
 
 .footer .rightF {
     display        : flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .footer .follows {
@@ -54,13 +54,12 @@
 @media(max-width:768px) {
 
     .footer .centerL {
-        justify-content: end;
+        justify-content: flex-end;
     }
 
     .footer .follows {
         width          : 100%;
         display        : flex;
         justify-content: space-between;
-        align-items    : flex-end;
     }
 }
